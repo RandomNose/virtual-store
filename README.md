@@ -1,3 +1,3 @@
 # virtual-store
 
-Text changed in local repository. 
+Changed text in local repository.
