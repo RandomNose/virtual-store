@@ -1,5 +1,5 @@
 # virtual-store
 
-Changed text in local repository.
+Changed text in local repository!
 
-Changed text via github web
+Changed text via github web!
